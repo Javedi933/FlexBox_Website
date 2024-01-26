@@ -1,4 +1,6 @@
 # Grid-Based-Website
 
 Assignment
-https://vercel.com/javedi933s-projects/grid-based-website
+
+# Project Preview link
+https://flex-box-website.vercel.app/
